@@ -3,7 +3,8 @@
   ----------
    > A presentation of co2 and methane emission by different countries made with d3.js
 
-   [for more details on d3.js visit .](https://d3js.org)
+   [for more details visit  https://d3js.org](https://d3js.org)
+   [for API reference visit https://github.com/d3/d3/wiki](https://github.com/d3/d3/wiki)
 
    -- Here I have used the minified version 5 of d3.
    ```Html
